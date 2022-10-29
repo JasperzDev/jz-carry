@@ -1,6 +1,6 @@
 Created by https://github.com/rubbertoe98
 
-I edited the script so you can't carry people if you are death.
+I edited the script so you can't carry people if you are dead.
 
 Requirements: mythic_notify
 
